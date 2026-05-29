@@ -1,0 +1,7 @@
+# Personal Reflection: AI and My Future Career
+
+After researching these industry statistics and reports, what surprised me the most was the sheer velocity at which AI is being integrated into software development. The fact that over 70% of developers are already leveraging AI demonstrates that this is not just a temporary trend, but the new industry standard.
+
+As a student and a future software engineer, I see massive opportunities in this transformation. AI can save me valuable time by writing repetitive boilerplate code or helping me clear up documentation tasks. However, the data showing that 60% of engineers worry about AI accuracy makes me realize that my future role won't just be about "writing code." Instead, it will heavily focus on critical thinking, debugging, and thoroughly testing what the machine outputs.
+
+I intend to adapt by treating these tools as intelligent assistants without relying on them blindly. My core focus will remain on building strong foundational skills in algorithms and system architecture—because these are the uniquely human capabilities that AI cannot replace yet.

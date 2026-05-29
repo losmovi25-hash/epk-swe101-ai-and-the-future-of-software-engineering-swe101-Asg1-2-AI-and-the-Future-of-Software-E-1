@@ -1,0 +1,10 @@
+# References - Topic 5
+
+1. **GitHub Next (2023)** - *Research: Quantifying GitHub Copilot’s impact on developer productivity and happiness.* 
+   Link: https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
+2. **Stack Overflow (2024)** - *Developer Survey 2024: AI technology adoption and sentiments.*
+   Link: https://survey.stackoverflow.co/2024/
+3. **McKinsey & Company (2023)** - *The economic potential of generative AI: The next productivity frontier.*
+   Link: https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
+4. **Deloitte Insights (2024)** - *State of Generative AI in the Enterprise: Now decides next.*
+5. **Gartner Research (2024)** - *Top Strategic Technology Trends for 2024: AI-Augmented Development.*
