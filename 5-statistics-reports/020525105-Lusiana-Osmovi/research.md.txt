@@ -13,3 +13,13 @@ Reports from GitHub and McKinsey & Company show impressive statistics regarding 
 While there are valid concerns, the overall sentiment within the developer community is positive:
 * 85% of developers state that AI tools help them feel less mentally drained and more productive.
 * However, around 60% of them express uncertainty regarding the absolute accuracy of automatically generated code, highlighting the critical need for human oversight and code review.
+---
+
+### Appendix: Additional Documentation & Learning Resources
+
+In addition to the primary industry reports, the following official documentation and guidelines were reviewed during the preparation of this assignment to understand practical AI implementation workflows:
+
+6. **GitHub Copilot Documentation** (2024). *Getting started with GitHub Copilot in Visual Studio Code.*
+   - Available at: [https://docs.github.com/en/copilot](https://docs.github.com/en/copilot)
+7. **OpenAI API Reference** (2024). *Developer guides and prompt engineering best practices.*
+   - Available at: [https://platform.openai.com/docs](https://platform.openai.com/docs)
